@@ -9,4 +9,6 @@ def IsPrimo(int n):
 
 def primos(int a, int b):
    return [n for n in range(a, b + 1) if IsPrimo(n)]
-   
+
+
+# Cambios
